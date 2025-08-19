@@ -1,18 +1,22 @@
 # 🎮 Loja de Games
 
-Este projeto é um sistema simples de gerenciamento de **clientes e jogos**, desenvolvido em **Java**, aplicando conceitos de **POO (Programação Orientada a Objetos)**.
-
----
+Projeto em Java que simula uma loja de jogos, com clientes e biblioteca de games.
 
 ## 🚀 Funcionalidades
-- Adicionar novos games  
-- Permitir adicionar saldo para cada cliente  
-- Comprar jogos (com validação de saldo)  
-- Filtrar games por categoria ou preço  
-- Exibir detalhes dos games  
-- Tratamento de exceções para saldo insuficiente  
-- Encapsulamento, construtores e associações entre classes  
+- Adicionar saldo
+- Comprar jogos (com validação de saldo)
+- Filtrar por categoria ou preço
+- Exibir detalhes dos games
 
+## 📂 Estrutura
+```
+Game.java     → Classe do jogo
+Cliente.java  → Classe do cliente
+Main.java     → Classe principal para rodar o sistema
+```
 ---
 
-## 📂 Estrutura do Projeto
+## 📌 Como executar
+1. Baixe os arquivos ou clone o repositório.
+2. Compile com `javac Main.java`.
+3. Rode com `java Main`.
