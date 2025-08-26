@@ -23,6 +23,6 @@ Main.java     → Classe principal para rodar o sistema
 
 👩‍💻 Autora
 
-Helen 
+##Helen 
 
 Projeto desenvolvido como prática da disciplina de Programação Orientada a Objetos em Java com Swing. O objetivo é exercitar conceitos de classes, herança, tratamento de exceções e construção de interfaces gráficas.
