@@ -21,8 +21,9 @@ Main.java     → Classe principal para rodar o sistema
 2. Compile com `javac Main.java`.
 3. Rode com `java Main`.
 
-👩‍💻 Autora
 
-##Helen 
+👩‍💻 **Autora**  
+**Helen Tais Rodrigues Alves**
 
-Projeto desenvolvido como prática da disciplina de Programação Orientada a Objetos em Java com Swing. O objetivo é exercitar conceitos de classes, herança, tratamento de exceções e construção de interfaces gráficas.
+Projeto desenvolvido como prática da disciplina de Programação Orientada a Objetos em **Java com Swing**.  
+O objetivo é exercitar conceitos de **classes, herança, tratamento de exceções e interfaces gráficas**.  
